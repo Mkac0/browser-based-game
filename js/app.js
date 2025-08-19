@@ -11,6 +11,7 @@ let deck = [];
 let selection = [];
 let lock = false;
 let moves = 0, matches = 0;
+let won;
 
 /*------------------------ Cached Element References ------------------------*/
 
